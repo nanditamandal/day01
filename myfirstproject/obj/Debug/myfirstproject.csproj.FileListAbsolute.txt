@@ -1,0 +1,10 @@
+E:\nandita\myfirstproject\myfirstproject\bin\Debug\myfirstproject.exe.config
+E:\nandita\myfirstproject\myfirstproject\bin\Debug\myfirstproject.exe
+E:\nandita\myfirstproject\myfirstproject\bin\Debug\myfirstproject.pdb
+E:\nandita\myfirstproject\myfirstproject\obj\Debug\myfirstproject.csprojAssemblyReference.cache
+E:\nandita\myfirstproject\myfirstproject\obj\Debug\myfirstproject.home.resources
+E:\nandita\myfirstproject\myfirstproject\obj\Debug\myfirstproject.Properties.Resources.resources
+E:\nandita\myfirstproject\myfirstproject\obj\Debug\myfirstproject.csproj.GenerateResource.cache
+E:\nandita\myfirstproject\myfirstproject\obj\Debug\myfirstproject.csproj.CoreCompileInputs.cache
+E:\nandita\myfirstproject\myfirstproject\obj\Debug\myfirstproject.exe
+E:\nandita\myfirstproject\myfirstproject\obj\Debug\myfirstproject.pdb
